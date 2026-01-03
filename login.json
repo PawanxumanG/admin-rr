@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "id": "1",
+      "key": "RR-ADMIN",
+      "owner": "Main Admin",
+      "isActive": true,
+      "expiresAt": "2030-01-01"
+    }
+  ]
+}
